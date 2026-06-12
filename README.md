@@ -1,2 +1,3 @@
-# KalamMinds-AI-
-Demo repo
+# KalamMinds AI
+
+Intro Repo
